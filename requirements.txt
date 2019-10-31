@@ -1,0 +1,8 @@
+opencv-python
+Pillow
+svg.path
+pyfirmata2
+pyvisa
+matplotlib
+pandas
+auto-py-to-exe
